@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYogeshLele%2Fpypac.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYogeshLele%2Fpypac?ref=badge_shield)
+
 PyPAC: Proxy auto-config for Python
 ===================================
 
@@ -80,3 +82,7 @@ Documentation
 -------------
 
 PyPAC's documentation is available at http://pypac.readthedocs.io/.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYogeshLele%2Fpypac.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYogeshLele%2Fpypac?ref=badge_large)
